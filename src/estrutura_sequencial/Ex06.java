@@ -3,7 +3,7 @@ package estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex06 {
+public class Ex06 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
